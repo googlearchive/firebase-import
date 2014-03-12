@@ -1,0 +1,7 @@
+{
+  "name": "firebase-import",
+  "private": true,
+  "dependencies": {
+    "firebase": "firebase"
+  }
+}
