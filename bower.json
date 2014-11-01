@@ -2,6 +2,6 @@
   "name": "firebase-import",
   "private": true,
   "dependencies": {
-    "firebase": "firebase"
+    "firebase": "firebase#~v1.1.3"
   }
 }
